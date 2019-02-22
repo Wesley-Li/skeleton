@@ -1,4 +1,4 @@
-Zhang-Suen Thinning Algorithm, Python and Matlab Implementation
+Zhang-Suen Thinning Algorithm, Python and OpenCV
 ================================================
 Algorithm Description:
 ------------------------------------------------
@@ -39,12 +39,12 @@ Page48-50, "Character Recognition Systems: A Guide for Students and Practitioner
 Implement Results:
 ------------------------------------------------
 Testing Environment: <br/>
-Python 2.7 ([scikit-image](http://scikit-image.org/) + matplotlib) <br/>
-Matlab 2012 <br/>
+Python 3.6 <br/>
+OpenCV 3.4 <br/>
 <br/>
-![image](https://github.com/linbojin/Skeletonization-by-Zhang-Suen-Thinning-Algorithm/blob/master/results/test1.jpg)
-![image](https://github.com/linbojin/Skeletonization-by-Zhang-Suen-Thinning-Algorithm/blob/master/results/test2.jpg)
-![image](https://github.com/linbojin/Skeletonization-by-Zhang-Suen-Thinning-Algorithm/blob/master/results/test4.jpg)
+![image](https://github.com/Wesley-Li/skeleton/blob/master/results/test1.jpg)
+![image](https://github.com/Wesley-Li/skeleton/blob/master/results/test2.jpg)
+![image](https://github.com/Wesley-Li/skeleton/blob/master/results/test4.jpg)
 
 
 
